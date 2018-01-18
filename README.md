@@ -12,7 +12,7 @@ At the moment, TradeBot is designed to support [Poloniex](https://poloniex.com/)
 
 Create a virtual environment.
 ```
-$ virtualenv -p python venv
+$ virtualenv -p python3 venv
 $ source venv/bin/activate
 ```
 
